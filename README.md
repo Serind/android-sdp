@@ -1,4 +1,7 @@
 # SDP - a scalable size unit
+
+[![](https://jitpack.io/v/omiselabs/android-sdp.svg)](https://jitpack.io/#omiselabs/android-sdp)
+
 An android SDK that provides a new size unit - sdp (scalable dp). This size unit scales with the screen size. It can help Android developers with supporting multiple screens.
 
 for text views please refer to [ssp](https://github.com/intuit/ssp) which is based on the sp size unit for texts. 
@@ -20,19 +23,15 @@ You can see that sdp scales with the screen size and the dp stays with the same 
 # Getting Started
 
 To add sdp to your project (Using Android Studio and Gradle): 
-
-  add implementation 'com.intuit.sdp:sdp-android:1.0.6' to your build.gradle dependencies block.
-  
-  for example:
   
   ```
   dependencies {
-    implementation 'com.intuit.sdp:sdp-android:1.0.6'
+    implementation 'com.github.omiselabs:android-sdp:1.0.0'
   }
   ```
 See the [sdp_example.xml](https://github.com/intuit/sdp/blob/master/sdp-android/src/main/res/layout/sdp_example.xml) to see how to use to the sdp size unit.
 
-For easy mapping of designs to sdp units, one can create designs with 300 pixels screen width - in this case each pixel in the design corresponds to 1 sdp.
+For easy mapping of designs to sdp units, one can create designs with **375 pixels** screen width - in this case each pixel in the design corresponds to 1 sdp.
 
 # Note
 The sdp size unit calculation includes some approximation due to some performance and usability constraints.
