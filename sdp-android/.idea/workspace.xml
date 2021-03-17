@@ -5,31 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="190b5ae4-76d8-4c3a-a301-68e2ef91f593" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/android-sdp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw300dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw300dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw330dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw330dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw360dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw360dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw390dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw390dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw420dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw420dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw450dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw450dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw480dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw480dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw510dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw510dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw540dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw540dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw570dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw570dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw600dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw600dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw630dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw630dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw660dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw660dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw690dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw690dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw720dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw720dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw750dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw750dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw780dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw780dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/negative_sdps.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,21 +132,21 @@
       <screen x="0" y="25" width="2003" height="1255" />
     </state>
     <state x="880" y="519" key="#Notifications/0.25.2003.1255@0.25.2003.1255" timestamp="1616011859640" />
-    <state width="1959" height="353" key="GridCell.Tab.0.bottom" timestamp="1616015897926">
+    <state width="1959" height="353" key="GridCell.Tab.0.bottom" timestamp="1616016019511">
       <screen x="0" y="25" width="2003" height="1255" />
     </state>
-    <state width="1959" height="353" key="GridCell.Tab.0.bottom/0.25.2003.1255@0.25.2003.1255" timestamp="1616015897926" />
-    <state width="1959" height="353" key="GridCell.Tab.0.center" timestamp="1616015897926">
+    <state width="1959" height="353" key="GridCell.Tab.0.bottom/0.25.2003.1255@0.25.2003.1255" timestamp="1616016019511" />
+    <state width="1959" height="353" key="GridCell.Tab.0.center" timestamp="1616016019510">
       <screen x="0" y="25" width="2003" height="1255" />
     </state>
-    <state width="1959" height="353" key="GridCell.Tab.0.center/0.25.2003.1255@0.25.2003.1255" timestamp="1616015897926" />
-    <state width="1959" height="353" key="GridCell.Tab.0.left" timestamp="1616015897925">
+    <state width="1959" height="353" key="GridCell.Tab.0.center/0.25.2003.1255@0.25.2003.1255" timestamp="1616016019510" />
+    <state width="1959" height="353" key="GridCell.Tab.0.left" timestamp="1616016019510">
       <screen x="0" y="25" width="2003" height="1255" />
     </state>
-    <state width="1959" height="353" key="GridCell.Tab.0.left/0.25.2003.1255@0.25.2003.1255" timestamp="1616015897925" />
-    <state width="1959" height="353" key="GridCell.Tab.0.right" timestamp="1616015897926">
+    <state width="1959" height="353" key="GridCell.Tab.0.left/0.25.2003.1255@0.25.2003.1255" timestamp="1616016019510" />
+    <state width="1959" height="353" key="GridCell.Tab.0.right" timestamp="1616016019510">
       <screen x="0" y="25" width="2003" height="1255" />
     </state>
-    <state width="1959" height="353" key="GridCell.Tab.0.right/0.25.2003.1255@0.25.2003.1255" timestamp="1616015897926" />
+    <state width="1959" height="353" key="GridCell.Tab.0.right/0.25.2003.1255@0.25.2003.1255" timestamp="1616016019510" />
   </component>
 </project>

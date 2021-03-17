@@ -33,7 +33,7 @@ public class SDPFactory extends DefaultTask {
     @Input
     double positiveMax = 600
     @Input
-    double negativeMax = 200
+    double negativeMax = 600
 
     @TaskAction
     def create() {
@@ -96,7 +96,7 @@ task createSDP(type: SDPFactory) {
 createSDP{
     unit = "dp"//change to "sp" if needed
     positiveMax = 600//change to 600 or any other value if needed
-    negativeMax = 200//change to 600 or any other value if needed
+    negativeMax = 600//change to 600 or any other value if needed
 }
 
 signing {
