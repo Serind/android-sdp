@@ -47,7 +47,7 @@ public class SDPFactory extends DefaultTask {
             printWriter.println("<?xml version=\"1.0\" encoding=\"utf-8\"?>");
             printWriter.println("<resources>");
             for(int i=1; i<=positiveMax; i++){
-                double ratio = i/375d;
+                double ratio = i/475d;
                 double sdp = ratio*dimen;
                 printWriter.printf("\t<dimen name=\"_%dsdp\">%.2f" + unit + "</dimen>\r\n",i,sdp);
             }
@@ -63,7 +63,7 @@ public class SDPFactory extends DefaultTask {
             printWriter.println("<?xml version=\"1.0\" encoding=\"utf-8\"?>");
             printWriter.println("<resources>");
             for(int i=1;i<=negativeMax;i++){
-                double ratio = i/375d;
+                double ratio = i/475d;
                 double sdp = ratio*dimen;
                 printWriter.printf("\t<dimen name=\"_minus%dsdp\">%.2f" + unit + "</dimen>\r\n",i,-sdp);
             }
