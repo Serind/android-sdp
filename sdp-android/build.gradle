@@ -33,11 +33,25 @@ public class SDPFactory extends DefaultTask {
     @Input
     double positiveMax = 600
     @Input
-    double negativeMax = 60
+    double negativeMax = 200
 
     @TaskAction
     def create() {
         String resFolder =  project.getProjectDir().getPath() + "/src/main/res/";
+
+        String folder1 = resFolder + "values";
+        String fileName1 = folder1 + "/negative_sdps.xml";
+        new File(folder1).mkdir();
+        new File(fileName1).createNewFile();
+        PrintWriter printWriter1 = new PrintWriter(fileName1);
+        printWriter1.println("<?xml version=\"1.0\" encoding=\"utf-8\"?>");
+        printWriter1.println("<resources>");
+        for(int i=1;i<=negativeMax;i++){
+            printWriter1.printf("\t<dimen name=\"_minus%dsdp\">%d" + unit + "</dimen>\r\n",i,-i);
+        }
+        printWriter1.println("</resources>");
+        printWriter1.close();
+
         for(double dimen = 300; dimen <= 800 ; dimen = dimen + 30){
             String folder = resFolder + "values-sw" + (int)dimen + "dp";
             String fileName = folder + "/positive_sdps.xml";
@@ -82,7 +96,7 @@ task createSDP(type: SDPFactory) {
 createSDP{
     unit = "dp"//change to "sp" if needed
     positiveMax = 600//change to 600 or any other value if needed
-    negativeMax = 60//change to 600 or any other value if needed
+    negativeMax = 200//change to 600 or any other value if needed
 }
 
 signing {
