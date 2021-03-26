@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="190b5ae4-76d8-4c3a-a301-68e2ef91f593" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw600dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw600dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw600dp/positive_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw600dp/positive_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw630dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw630dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw630dp/positive_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw630dp/positive_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw660dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw660dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw660dp/positive_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw660dp/positive_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw690dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw690dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw690dp/positive_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw690dp/positive_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw720dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw720dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw720dp/positive_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw720dp/positive_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw750dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw750dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw750dp/positive_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw750dp/positive_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw780dp/negative_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw780dp/negative_sdps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-sw780dp/positive_sdps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values-sw780dp/positive_sdps.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
